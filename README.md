@@ -1,5 +1,5 @@
 # namaste-ai
-nepali language is unique but different enough.to warrant natural language understanding focused on it. Devanagari understanding is just the base for it.
+nepali language is unique but different enough to warrant natural language understanding focused on it. Devanagari understanding is just the base for it.
 
 ## Namaste-AI is a metarepository.
 
