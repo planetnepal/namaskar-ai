@@ -40,6 +40,22 @@ https://dl.acm.org/doi/10.1145/3606696
 #### Natural language processing for Nepali text: a review
 https://www.researchgate.net/publication/355699418_Natural_language_processing_for_Nepali_text_a_review
 
+#### OpenHathi Series: An Approach To Build Bilingual LLMs Frugally
+https://www.sarvam.ai/blog/announcing-openhathi-series 
+
+#### AI4Bhārat Artificial-Intelligence-For-Bhārat : Building open-source AI solutions for India!
+https://github.com/AI4Bharat
+[A collaborative catalog of NLP resources for Indic languages](https://github.com/AI4Bharat/indicnlp_catalog)
+[Pretraining, fine-tuning and evaluation scripts for IndicBERT-v2 and IndicXTREME](https://github.com/AI4Bharat/IndicBERT)
+[Transliteration models for 21 Indic languages](https://github.com/AI4Bharat/IndicXlit)
+[IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages](https://github.com/AI4Bharat/IndicTrans2)
+[Text-to-Speech for languages of India](https://github.com/AI4Bharat#:~:text=13-,Indic%2DTTS,-Public)
+[Pretraining, fine-tuning and evaluation scripts for Indic-Wav2Vec2](https://github.com/AI4Bharat/IndicWav2Vec)
+
+#### Airavata: Introducing Hindi Instruction-tuned LLM
+https://ai4bharat.github.io/airavata/?s=03
+https://huggingface.co/ai4bharat/Airavata
+
 #### Miscellaneous
 https://github.com/divyamani1/Nepali-NLP-Progress
 
