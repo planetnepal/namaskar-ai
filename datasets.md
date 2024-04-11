@@ -1,15 +1,14 @@
 # Nepali Language Datasets
 
-- ## A LARGE SCALE NEPALI TEXT CORPUS
-  https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus
+## A LARGE SCALE NEPALI TEXT CORPUS
+https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus
 
-  Rabindra Lamsal et al.
+Rabindra Lamsal et al.
 
-- ## large list of datasets in hugging face
-  
-  https://huggingface.co/datasets?p=1&sort=trending&search=nepali
+## large list of datasets in hugging face
+https://huggingface.co/datasets?p=1&sort=trending&search=nepali
 
-  three examples below
+three examples below
 - ### Sakonii/nepalitext-language-model-dataset
   https://huggingface.co/datasets/Sakonii/nepalitext-language-model-dataset
 
