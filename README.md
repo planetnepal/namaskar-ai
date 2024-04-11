@@ -60,7 +60,6 @@ https://www.sarvam.ai/blog/announcing-openhathi-series
 - https://github.com/divyamani1/Nepali-NLP-Progress
 
 ### data sets
-#### large scale nepali text corpus
-https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus
+see [datasets.md](datasets.md)
 
 
