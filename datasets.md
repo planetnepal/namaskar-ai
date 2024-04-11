@@ -5,11 +5,16 @@
 
   Rabindra Lamsal et al.
 
-- ## Sakonii/nepalitext-language-model-dataset
+- ## large list of datasets in hugging face
+  
+  https://huggingface.co/datasets?p=1&sort=trending&search=nepali
+
+  three examples below
+- ### Sakonii/nepalitext-language-model-dataset
   https://huggingface.co/datasets/Sakonii/nepalitext-language-model-dataset
 
-- ## someman/news_nepali
+- ### someman/news_nepali
   https://huggingface.co/datasets/Someman/news_nepali
 
-- ## Telugu-LLM-Labs/nepali_alpaca_yahma_cleaned_filtered
+- ### Telugu-LLM-Labs/nepali_alpaca_yahma_cleaned_filtered
   https://huggingface.co/datasets/Telugu-LLM-Labs/nepali_alpaca_yahma_cleaned_filtered
