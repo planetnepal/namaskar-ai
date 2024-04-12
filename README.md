@@ -7,6 +7,9 @@ nepali language is unique but different enough to warrant natural language under
 
 
 ### prior art projects
+### Language resources for Nepal Github repo
+https://language-resources-nepal.github.io/
+
 #### NepBerta 
 - https://nepberta.github.io
 - https://aclanthology.org/2022.aacl-short.34/
